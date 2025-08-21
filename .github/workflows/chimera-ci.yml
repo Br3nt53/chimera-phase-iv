@@ -11,6 +11,8 @@ on:
 jobs:
   parity_and_dryrun:
     runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: ${{ github.workspace }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
