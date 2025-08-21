@@ -1,0 +1,8 @@
+defaults:
+  - _self_
+  - model: unet_small
+  - data: cfd2d_ind_v1
+  - experiment: E1_cfd2d
+
+dry_run: true
+seeds_override: []
