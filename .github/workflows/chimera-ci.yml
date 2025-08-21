@@ -2,9 +2,11 @@ name: chimera-ci
 
 on:
   push:
-    branches: [ main, master ]
+    branches-ignore:
+      - main
   pull_request:
-    branches: [ main, master ]
+    branches:
+      - main
 
 jobs:
   parity_and_dryrun:
