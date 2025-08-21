@@ -1,5 +1,5 @@
 name: CFD2D_OOD_v1
-root: /ABSOLUTE/PATH/TO/CFD2D/OOD
+root: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/OOD
 manifest_yaml: data/manifests/OOD_MANIFEST.yaml
 hash: null
 fft:

@@ -1,4 +1,8 @@
-import argparse, yaml, torch
+import argparse, yaml, torch, sys, os
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
+
 from torchinfo import summary
 from thop import profile
 from models.torch_models import build_from_manifest

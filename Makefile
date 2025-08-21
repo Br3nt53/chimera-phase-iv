@@ -1,3 +1,5 @@
+PYTHONPATH := $(shell pwd)
+export PYTHONPATH
 SHELL := /bin/bash
 
 .PHONY: help check parity dryrun train_e1 probes aggregate figures full_e1 clean verify_hashes hash_missing

@@ -1,5 +1,5 @@
 name: CFD2D_IND_v1
-root: /ABSOLUTE/PATH/TO/CFD2D/IND
+root: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND
 manifest_yaml: data/manifests/IND_MANIFEST.yaml
 hash: null
 fft:

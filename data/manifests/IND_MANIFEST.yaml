@@ -1,5 +1,101 @@
 files:
-  - path: /ABSOLUTE/PATH/TO/CFD2D/IND/sample_0001.h5
-    sha256: null
-  - path: /ABSOLUTE/PATH/TO/CFD2D/IND/sample_0002.h5
-    sha256: null
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0001.npz
+  sha256: a816fe4a2e69174cde52de2e51f86bebeff8b9b20655952f6b4026cefab1bcae
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0002.npz
+  sha256: e5cd5a16047a8709181e0fd14b6b298d4c24f7b6326b4b76789ea705a61ce392
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0003.npz
+  sha256: 8d2caa7cf9d2f9422849bd7b63207e09189ac24846dd6ea3b919c9789b1b702c
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0004.npz
+  sha256: c7051e64fd52e8154052973782bc35cfd1bcc554b70e8a81bb0d7c48838899d2
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0005.npz
+  sha256: 5a165a26d2c40173f84ada91b3167d8edebd5486027d5a8e73d7e53539c8e18c
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0006.npz
+  sha256: 864f9700cae9081ba702e1bd7c64de385f4780c54c754963ddd582c415512612
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0007.npz
+  sha256: be962713f37e7ded53ca39478749cd16646414e68261e87b8cbb5661cf14f75c
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0008.npz
+  sha256: 825501d396a465518c4d430c34db80ee0a8c950b3c4af24a2adc0665f683eed6
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0009.npz
+  sha256: cec0a0d310643db303e6aa203fe8fe805971ffc0b963fd018fed11927a30e13f
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0010.npz
+  sha256: a98d37fb048b4c57470ecfb855b9deac7458e38eab6479bc2171736687e7f4f5
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0011.npz
+  sha256: 97930d3e594a29c4d28a2185f337ba32ecf6c2b0ad702dd2885cf04405164bd5
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0012.npz
+  sha256: 7b87f9f806515990c85cb27bb8393523d806bca915e0799f32c3500c3f71df1d
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0013.npz
+  sha256: 6c6ef86ebae948f1b5d322e41932b16f3be3183ea45b6d08cf4c03f446514564
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0014.npz
+  sha256: 9fdffc63ce03713922cc622a9da50624be1ac11c7fb309f2962d3df84122cb43
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0015.npz
+  sha256: 4d1c5e0ef53cb93b6c3d78a82822a0b2ac66bb56005ac5098e9966bea65171a1
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0016.npz
+  sha256: 1ffb1f549c121bbd939de74daf048cf662c675c2da1b29e221c95252e55aca00
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0017.npz
+  sha256: b28e4fbbc7e8c87c5b39ecab53189c3d5391e91e95f86ae9a26109a18246cadf
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0018.npz
+  sha256: 8228ad6bbf742518e21b95873136584926260cec30f0f81ebfd1ddd36dacbdf4
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0019.npz
+  sha256: 02f0497c8454b7d7ada7d665d9b7834ee83db7258e1f25ded6d9d67596379d6e
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0020.npz
+  sha256: a7a27a3e94acf4af89c1f4e27d0984a6acd940737b9f5fb865fac49537e4a2d0
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0021.npz
+  sha256: 1ee48c42df63c1cb366722e92c86d4e0d5c4e36bd74ff096d9e5130c6941390d
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0022.npz
+  sha256: 059d3389f42050cc9ce6bfcbcf2f574715f6a52f3d4ca580b28baae32afa8f60
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0023.npz
+  sha256: d91f7a2a6cd3faddb7125de905d93944e822c01847e36f77e4342dbbd1d19671
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0024.npz
+  sha256: 69a80c284ed3796df1b953076f8d1dc896e37b5056b09b31dd5e3f12560e1557
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0025.npz
+  sha256: 34cad1b626f665e598e035efeb28265c3585746f24459ab854b947958a6daf65
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0026.npz
+  sha256: 9d74cea36ced0a70cfc7d99c274a6b0b407f31e8832eb178a5723c8455b49c6c
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0027.npz
+  sha256: 12fc98c464535529849a1607a238c85f425f7ef6b1a7140c55b696a4807c1f73
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0028.npz
+  sha256: fc40d7c629fcdb796bcc3f424a20692e6a71d0e958d34f10a6e8389974b97cec
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0029.npz
+  sha256: de0a0e8621bdfe8260e10a8f17b5cf65eb702c69c8ce7b8f5b0ac8134b4baad6
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0030.npz
+  sha256: 44d6d799b5e9f561cd94efd4713762c6ea5ba1b30f1fc06575c4ed06abb1dc11
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0031.npz
+  sha256: 23c863cca6967e68f882914702a21f904dff430a95e2ebe283f1c7e79f39bb0b
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0032.npz
+  sha256: 6527b2dfe3f34f8331e0bee83d18f2655b4cc9a040aad12bccf5fa5c0ad9274a
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0033.npz
+  sha256: 36be7db55e13a3349122d6c2df1e7568e91ceaed4658c9a1ed6f6477b110d7ba
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0034.npz
+  sha256: 55abdd9a775189f5221819b66ba5e519c827f492dbcd0c11ce1c8a3b99361fde
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0035.npz
+  sha256: fd8f97070673096a3573bc231e5a9b26e45d5c757040af7e9cb04147630cb411
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0036.npz
+  sha256: 39d7378b60599d1cfe6047ee49086a92e74957bf56fcdf8dc0245a3a9d0ec66b
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0037.npz
+  sha256: 8bacf8f02f771e6eb3862c6c24e78ffb1bdb77a7fe8c29fed4390c50d39a2773
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0038.npz
+  sha256: 415c7fd4962c9f3146af492e3e428b73ece9a1033870455b6eb7d33eb4ac10a7
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0039.npz
+  sha256: 582de7f97c8db1c2b268a1d755a7b4957d1a52c58d038f786f2b35a063850970
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0040.npz
+  sha256: 81c7f36cc347692f5a8d2de9a79a03ffb6ea26ccfcb7d6d48bd56b0b131c689e
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0041.npz
+  sha256: a3682b0c3459b0a9bdc71f4ad1aac13a2667eb6784e663b1d9669c20d65a4b49
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0042.npz
+  sha256: 27d9baaa9529b1fe67a550a14f0f99adf5ab59eab7dd258cfd8cebab0cea049f
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0043.npz
+  sha256: 46f292c0880a7d21e181c23ab192efa72d162b424e6ec5e22ec43d2cbe586f01
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0044.npz
+  sha256: bb6f973b36ec7c93d0e48d0709daeb3ef8113b975c1988b83caf6e86eb236cbf
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0045.npz
+  sha256: 2f36821b168f2a4644d71f88cf1ce402588d0ce269ba8ae5252d8f864518e781
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0046.npz
+  sha256: 0b47bb36ab68e88d7cda940befacad548905bf32fc8b296d61f4ea8e74825d89
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0047.npz
+  sha256: 5e07436e8c5c3a28af1a42f2ca2610c86abb757aeddf81930c8ed2a6334e7df1
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0048.npz
+  sha256: b8c3cb91c457202fc2aee9295a0442c9f7b191fc298a9f3d415afeb7c82de5a4
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0049.npz
+  sha256: 89c08618741da19936b5c1ebe28715cde3441fdc3fd4ea20e997a35daf3dc354
+- path: /Users/sharkbait/Desktop/Project Chimera/chimera_phase_iv_scaffold/data/local/IND/sample_0050.npz
+  sha256: 67191569a14fc772dccc65b7a214ce55514241a40090a776d10ddba4903adfde
