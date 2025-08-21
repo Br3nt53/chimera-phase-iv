@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# Artifacts and logs
+artifacts/
+logs/
+wandb/
+
+# Checkpoints and large binaries (use LFS instead if you must commit)
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Data (keep only manifests/configs)
+data/**/*.h5
+data/**/*.nc
+data/**/*.npz
+data/**/*.npy
+!data/manifests/*.yaml
+!configs/data/*.yaml

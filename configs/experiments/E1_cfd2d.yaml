@@ -1,0 +1,12 @@
+name: E1_CFD2D
+seeds: [0, 1, 2]
+param_flop_tolerance: 0.05
+eval_batch_size: 8
+probes:
+  run_id: true
+  run_spectra: true
+  run_ib: false
+  run_patching: false
+logging:
+  out_dir: artifacts/E1
+  save_activations: false

@@ -1,0 +1,40 @@
+name: chimera-ci
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  parity_and_dryrun:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Param/FLOP Parity Gate (±5%)
+        run: |
+          python scripts/assert_param_flops_torch.py             --fractal configs/models/fractal_unet_small.yaml             --baseline configs/models/unet_small.yaml             --tol 0.05
+      - name: Dry-run Grid (E1 sanity)
+        run: |
+          bash scripts/run_grid.sh
+      - name: Aggregate and plot placeholder
+        run: |
+          python scripts/collect_metrics.py --root artifacts/E1 --out artifacts/E1_summary.json
+          python eval/generate_plots_stub.py --summary artifacts/E1_summary.json --out artifacts/fig1_ind_ood.png
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: chimera-dryrun-artifacts
+          path: |
+            artifacts/E1
+            artifacts/E1_summary.json
+            artifacts/fig1_ind_ood.png

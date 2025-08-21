@@ -1,0 +1,5 @@
+files:
+  - path: /ABSOLUTE/PATH/TO/CFD2D/OOD/sample_1001.h5
+    sha256: null
+  - path: /ABSOLUTE/PATH/TO/CFD2D/OOD/sample_1002.h5
+    sha256: null
