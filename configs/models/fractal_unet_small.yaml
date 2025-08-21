@@ -2,8 +2,8 @@ name: FractalUNetSmall
 type: fractal_unet
 input_shape: [1, 128, 128]
 channels: [32, 64, 128]
-branching_factor: 2
-levels: 3
+branching_factor: 1
+levels: 1
 kernel_size: 3
 use_skip: true
 drop_path: false

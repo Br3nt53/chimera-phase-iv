@@ -1,5 +1,5 @@
 files:
-  - path: /ABSOLUTE/PATH/TO/CFD2D/IND/sample_0001.h5
-    sha256: null
-  - path: /ABSOLUTE/PATH/TO/CFD2D/IND/sample_0002.h5
-    sha256: null
+- path: data/samples/ind_sample_00.npz
+  sha256: af9355f6d5f3ce335fd8f2b59b3bae66d486b0dd6a5d8c843304a519a930c979
+- path: data/samples/ind_sample_01.npz
+  sha256: b935856a2fec81afda26ea4761be8adbbbdec70f9825e45406afdb18f36ef1b6

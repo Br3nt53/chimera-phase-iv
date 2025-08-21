@@ -1,4 +1,7 @@
 import argparse, yaml, torch
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 from torchinfo import summary
 from thop import profile
 from models.torch_models import build_from_manifest

@@ -1,5 +1,5 @@
 files:
-  - path: /ABSOLUTE/PATH/TO/CFD2D/OOD/sample_1001.h5
-    sha256: null
-  - path: /ABSOLUTE/PATH/TO/CFD2D/OOD/sample_1002.h5
-    sha256: null
+- path: data/samples/ood_sample_00.npz
+  sha256: 1507a649bc9c26c7f641d392ced83df27fa538dbbc181b9018eff52504763d0d
+- path: data/samples/ood_sample_01.npz
+  sha256: 7e12008742873745ade8720611ce68246534aabcdc67646033dcddd1582edf6c
